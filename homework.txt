@@ -1,0 +1,83 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HomeWork</title>
+</head>
+<body>
+
+    <div id="button">
+        <table id="table">
+            <tr>
+                <td id="td">1</td>
+                <td id="td">2</td>
+                <td id="td">3</td>
+            </tr>
+            <tr>
+                <td id="td">4</td>
+                <td id="td">5</td>
+                <td id="td">6</td>
+            </tr>
+            <tr>
+                <td id="td">7</td>
+                <td id="td">8</td>
+                <td id="td">9</td>
+            </tr>
+            <tr>
+                <td id="td">*</td>
+                <td id="td">0</td>
+                <td id="td">#</td>
+            </tr>
+        </table>
+    </div>
+    <script >  
+var table = document.getElementById('table');
+var td = document.getElementById('td');
+        table.style.width ='150px';
+        table.style.height ='200px';
+        table.style.border = ' 1px solid black';
+        table.style.textAlign ='center';
+        table.style.padding = '0';
+        table.style.margin = '0';
+
+        td.style.width = '50px';
+        td.style.height = '50px';
+        td.style.border = '1px solid black';
+        td.style.margin = '0';
+        td.style.textAlign ='center';
+        td.style.lineHeight = '50px';
+        td.style.margin ='0 auto';
+        td.style.padding = '0';
+          
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+var table = document.getElementById('table');
+var td = document.getElementById('td');
+        table.style.width ='150px';
+        table.style.height ='200px';
+        table.style.border = ' 1px solid black';
+        table.style.textAlign ='center';
+        table.style.padding = '0';
+        table.style.margin = '0';
+
+        td.style.width = '50px';
+        td.style.height = '50px';
+        td.style.border = '1px solid black';
+        td.style.margin = '0';
+        td.style.textAlign ='center';
+        td.style.lineHeight = '50px';
+        td.style.margin ='0 auto';
+        td.style.padding = '0';
+        
+        
